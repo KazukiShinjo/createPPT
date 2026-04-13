@@ -1,0 +1,6 @@
+# 必須ライブラリ
+python-pptx>=0.6.21
+
+# 開発用ライブラリ
+pytest>=7.0
+pytest-cov>=3.0
